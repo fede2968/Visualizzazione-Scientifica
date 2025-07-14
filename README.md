@@ -36,3 +36,5 @@ Dataset: [Kaggle – Global Salaries in Cybersecurity](https://www.kaggle.com/da
 Approfondimento sul **mercato del lavoro nella cybersecurity**: **ruoli**, **salari medi**, **differenze tra Paesi** e **prospettive di carriera**.
 
 Il lavoro svolto si propone come un esercizio di lettura strutturata dei principali fenomeni che caratterizzano il dominio della cybersecurity. L'analisi parte dalla **crescita esponenziale dell’uso di Internet** e arriva a esplorare le conseguenze pratiche di questa trasformazione: l’**aumento delle vulnerabilità note (CVE)**, la **diffusione di password insicure**, la **varietà e complessità delle minacce digitali** e infine le **implicazioni sul mercato del lavoro** e sulla **richiesta di competenze** nel settore.
+
+**NB: Alcuni grafici non sono visibili direttamente da Github. In questo caso sono presenti dei report HTML corrispondenti a notebook che mostrano tutti i grafici senza richiedere esecuzioni
