@@ -1,4 +1,4 @@
-# Cybersecurity
+# Il mondo della Cybersecurity
 Il repository contiene il progetto svolto da Andrea Bianchi e Federico Colombo per l’esame del corso di Visualizzazione Scientifica.
 
 L’obiettivo principale è stato quello di **analizzare e rappresentare visivamente fenomeni legati alla cybersecurity**, alla **diffusione delle tecnologie digitali** e al **mercato del lavoro nel settore della sicurezza informatica**.  
