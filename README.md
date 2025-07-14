@@ -12,7 +12,7 @@ Analizza la **diffusione globale di Internet** dal 1980 a oggi.
 Attraverso diversi grafici si osserva come la connettività sia cresciuta in modo esponenziale, con focus sui **paesi più connessi**.
 
 ## **2 - CVE.ipynb**  
-Dataset: [Kaggle – CVE Dataset](https://www.kaggle.com/datasets/sanuvishwakarma/cve-dataset
+Dataset: [Kaggle – CVE Dataset](https://www.kaggle.com/datasets/sanuvishwakarma/cve-dataset)
 Studio delle **vulnerabilità software (CVE)**.  
 Vengono analizzate per **anno**, **gravità**, **tipologia** e **categoria (CWE)**, mettendo in evidenza come sia cambiato nel tempo il **panorama delle minacce**.
 
