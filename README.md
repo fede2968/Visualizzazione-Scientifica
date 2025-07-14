@@ -1,5 +1,5 @@
 # Il mondo della Cybersecurity 
-### [Link presentazione](https://www.canva.com/design/DAGkisV8abo/QCplbO21XXQ_ceUmxV9vsw/edit?utm_content=DAGkisV8abo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+### [Link alla presentazione canva](https://www.canva.com/design/DAGkisV8abo/QCplbO21XXQ_ceUmxV9vsw/edit?utm_content=DAGkisV8abo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 Il repository contiene il progetto svolto da Andrea Bianchi e Federico Colombo per l’esame del corso di Visualizzazione Scientifica.
 L'analisi è volta a visualizzare in modo chiaro dati legati alla **Cybersecurity**, offrire una panoramica dei fattori tecnologici, organizzativi e umani che influenzano il settore e evidenziare correlazioni, tendenze e criticità rilevanti.
 L’obiettivo principale è stato quello di **analizzare e rappresentare visivamente fenomeni legati alla cybersecurity**, alla **diffusione delle tecnologie digitali** e al **mercato del lavoro nel settore della sicurezza informatica**.  
