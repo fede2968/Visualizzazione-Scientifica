@@ -18,8 +18,7 @@ Vengono analizzate per **anno**, **gravità**, **tipologia** e **categoria (CWE)
 
 ## **3 - GlobalCyberThreats.ipynb**  
 Dataset: [Kaggle – Global Cybersecurity Threats](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)  
-Analisi delle **principali minacce informatiche globali**:  
-**tipi di attacco**, **settori colpiti**, **tecniche usate** e **attori coinvolti**.
+Analisi delle **principali minacce informatiche globali**:  **tipi di attacco**, **settori colpiti**, **tecniche usate** e **attori coinvolti**.
 
 ###  **GlobalCyberThreats MAP.ipynb**  
 Integrazione del notebook precedente con una **mappa interattiva** che mostra la **distribuzione geografica** degli incidenti informatici registrati tra il **2015 e il 2024**.
